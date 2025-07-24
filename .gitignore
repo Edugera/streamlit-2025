@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.log
+
+# Conda environment
+env/
+.conda/
+*.conda
+
+# Streamlit
+.streamlit/
+
+# Arquivos temporários
+*.swp
+.DS_Store
+Thumbs.db
+
+# Dados sensíveis
+.env
+*.sqlite3
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
